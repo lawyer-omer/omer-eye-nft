@@ -1,0 +1,46 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"details": "String operations.",
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/OmerEye.sol": "Strings"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/OmerEye.sol": {
+			"keccak256": "0xa947c9d565d8c70343f31845d12b73c39c3cea3fbd10a624389896cdf5de87c6",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://725a9b7d6b0ebbe4003819ed2046868f7ca0393ec0aa1045c5022f2f5a07077c",
+				"dweb:/ipfs/QmSchaiUiviHfVBaVtuZ4rZCCFHAJZTCNuNfdUTooA3cjS"
+			]
+		}
+	},
+	"version": 1
+}
